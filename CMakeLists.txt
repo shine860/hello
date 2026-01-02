@@ -11,6 +11,7 @@ project(hello LANGUAGES CXX)
 add_executable(hello
     #math.cpp                              # 模块实现单元
     main.cpp
+    student.cppm
 )
 
 set(MODULE_INTERFACE_FILES
