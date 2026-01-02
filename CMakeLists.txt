@@ -12,6 +12,7 @@ add_executable(hello
     #math.cpp                              # 模块实现单元
     main.cpp
     student.cppm
+    student.cpp
 )
 
 set(MODULE_INTERFACE_FILES
