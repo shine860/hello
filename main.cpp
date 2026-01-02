@@ -1,4 +1,4 @@
-#include <stdlib.h>
+import std;
 
 int main()
 {
